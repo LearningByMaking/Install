@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/user/Documents/Scripts/DisableTouchpad.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Disable Touchpad
+Name=Disable Touchpad
+Comment[en_US]=
+Comment=
